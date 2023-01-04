@@ -1,0 +1,17 @@
+header h1 {
+  text-align: center;
+}
+
+.todo-text {
+  font-weight: 100;
+  font-size: 23px;
+  width: 100%;
+  max-width: calc(100% - 140px);
+  overflow: scroll;
+  padding: 8px;
+}
+
+.edit-button-group {
+  margin-top: 8px;
+  flex-direction: reverse;
+}
